@@ -1,7 +1,6 @@
 ---
 date = 2025-08-18
-aliases =
-  - "Breach or a Blessing: Lessons from a Suppression List Slip-up"
+aliases = 'Breach or a Blessing: Lessons from a Suppression List Slip-up'
 tags =
   - blogpost
   - published
