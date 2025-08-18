@@ -1,17 +1,19 @@
 ---
-aliases:
+date = 2025-08-18
+aliases =
   - "Breach or a Blessing: Lessons from a Suppression List Slip-up"
-tags:
+tags =
   - blogpost
   - published
   - GDPR
   - Accountability_Principle
   - Data_Minimisation
   - Purpose_Limitation
-title: Experience Really is the Best Teacher
-type: blogpost
-url: https://insights.priva.cat/p/breach-or-blessing-lessons-from-a?r=1x369k
+title = 'Breach or a Blessing: Lessons from a Suppression List Slip-up'
+published: true
 ---
+
+Originally published [here](https://insights.priva.cat/p/breach-or-blessing-lessons-from-a?r=1x369k)
 
 A data protection lesson on what can happen when you accidentally send emails to your suppression list
 
