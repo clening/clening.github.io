@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Cats? Cats!</title>
     <link>http://localhost:39409/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Cats? Cats!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Aug 2025 01:15:45 +0100</lastBuildDate>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 18 Aug 2025 01:15:45 +0100</pubDate>
       <guid>http://localhost:39409/posts/other/</guid>
       <description>Testing to see if I can generate a new file without this destroying my soul.</description>
+    </item>
+    <item>
+      <title>Trying something new</title>
+      <link>http://localhost:39409/posts/trying-something-new/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:39409/posts/trying-something-new/</guid>
+      <description>Ok, going to see if I can get the whole git command within the enhancing export to do this for me, because that would be EXCELLENT.&#xA;&amp;lt;3&#xA;link</description>
     </item>
     <item>
       <title>My First Post</title>
