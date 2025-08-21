@@ -1,4 +1,75 @@
-baseURL = 'https://example.org/'
+baseURL = 'clening.github.io'
 languageCode = 'en-us'
-title = 'Cats? Cats!'
-theme = 'hugo-theme-mini'
+theme = 'ananke'
+
+title = 'foo'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 5
+  [[menus.main]]
+    name = 'Blog'
+    pageRef = '/posts'
+    weight = 10
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 15
+
+[params]
+date_format = "2006-01-02"
+featured_image = '/images/gohugo-default-sample-hero-image.jpg'
+enableGitInfo = true
+enableRobotsTXT = true
+  [params.contact]
+    email = 'info@example.org'
+    phone = '+1 206-555-1212'
+
+[ananke]
+show_recent_posts = true # show recent posts on the homepage
+
+[ananke.socials]
+networks = [
+   "bluesky",
+   "linkedin"
+]
+
+[ananke.social.follow]
+new_window_icon = false
+networks = [
+  "bluesky",
+  "linkedin"
+]
+
+
+[params.ananke.social.bluesky]
+username = "priva.cat"
+
+[params.ananke.social.linkedin]
+username = "privacat"
+[ananke.social.networks.linkedin]
+slug = "linkedin"
+label = "LinkedIn"
+color = "#0077b5"
+profile = "http://linkedin.com/in/%s"
+icon = "linkedin" # font awesome brand icon name
+link = "https://www.linkedin.com/shareArticle"
+#separator = "&"
+[ananke.social.networks.linkedin.particles]
+url = "permalink"
+title = "title"
+summary = "description"
+source = "permalink"
+params = "mini=true"
+
+[ananke.social.share]
+icons = true
+sharetext = true
+networks = [
+  "email",
+  "facebook",
+  "bluesky",
+  "linkedin"
+]

@@ -1,3 +1,18 @@
 [submodule "themes/hugo-theme-mini"]
 	path = themes/hugo-theme-mini
 	url = https://github.com/nodejh/hugo-theme-mini.git
+[submodule "themes/themes/notrack"]
+	path = themes/themes/notrack
+	url = https://github.com/gevhaz/hugo-theme-notrack.git
+[submodule "themes/notrack"]
+	path = themes/notrack
+	url = https://github.com/gevhaz/hugo-theme-notrack.git
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "CareysBlogofRants/themes/PaperMod"]
+	path = CareysBlogofRants/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
