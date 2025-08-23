@@ -50,7 +50,7 @@ outputs:
     - JSON
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Privacy Disasters -- Here is where I record my rage"
   author: clening
   
