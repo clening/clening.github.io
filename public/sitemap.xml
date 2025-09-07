@@ -2,31 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:40037/posts/firstpost/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:33775/posts/testpost/</loc>
   </url><url>
-    <loc>http://localhost:40037/tags/blog/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:33775/categories/</loc>
   </url><url>
-    <loc>http://localhost:40037/tags/junk/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:33775/posts/</loc>
   </url><url>
-    <loc>http://localhost:40037/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:33775/</loc>
   </url><url>
-    <loc>http://localhost:40037/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:33775/search/</loc>
   </url><url>
-    <loc>http://localhost:40037/tags/random/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:33775/series/</loc>
   </url><url>
-    <loc>http://localhost:40037/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:40037/categories/</loc>
-  </url><url>
-    <loc>http://localhost:40037/search/</loc>
-  </url><url>
-    <loc>http://localhost:40037/series/</loc>
+    <loc>http://localhost:33775/tags/</loc>
   </url>
 </urlset>
